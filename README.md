@@ -8,7 +8,7 @@
 **DriveGuard** is a real-time, dual-signal driver monitoring system designed to detect drowsiness before it becomes dangerous. Using a standard webcam, it calculates Eye Aspect Ratio (EAR) and head tilt to trigger escalating audio-visual alarms and emergency SMS simulations.
 
 ## 🌐 Live Demo & Download
-👉 **[Visit the Official Website](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)** *(Replace this link with your actual GitHub Pages link)*
+👉 **[Visit the Official Website]([https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/](https://sahibrautela-cpu.github.io/DriveGuard/))** *(Replace this link with your actual GitHub Pages link)*
 
 ## ✨ Key Features
 *   **Real-Time Face Tracking:** Utilizes MediaPipe's 468 facial landmarks for highly accurate eye and head pose estimation.
